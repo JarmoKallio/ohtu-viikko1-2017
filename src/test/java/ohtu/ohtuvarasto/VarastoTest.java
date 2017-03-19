@@ -141,8 +141,8 @@ public class VarastoTest {
             toimiiko = true;
         }
 
-        assertEquals(true, toimiiko);
-        
+        //assertEquals(true, toimiiko);
+        assertEquals(false, toimiiko);
     }
     
     
